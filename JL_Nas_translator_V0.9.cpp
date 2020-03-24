@@ -6,7 +6,7 @@ int main()
 	char jl[300];
 	int lenthstr,lenth;
 	
-	cout<<"**********************"<<endl<<endl;
+	cout<<"**********************"<<endl<<endl;//sourcetreetestz
 	cout<<"貼上 Mac 路徑 : "<<endl<<endl;
 	
 	cin.getline(jl,300); //純cin吃到空格就會終止
